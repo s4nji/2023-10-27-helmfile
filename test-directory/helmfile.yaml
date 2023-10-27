@@ -1,0 +1,5 @@
+releases:
+  - name: my-manifests
+    namespace: 2023-10-27-helmfile-test
+    chart: ../my-manifests
+
