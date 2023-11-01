@@ -11,6 +11,7 @@ jobs:
         helmfile-version:
           - "v0.157.0"
           - "v0.158.0"
+          - "v0.158.1"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
